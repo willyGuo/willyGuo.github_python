@@ -72,5 +72,6 @@ def compute_bill(food):
         total =total+prices[i]
     return total
 	
-
+print("update")
+print("update")
     
