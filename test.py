@@ -52,7 +52,7 @@ print(inventory)
 shopping_list = ["banana", "orange", "apple"]
 
 stock = {
-    "banana": 6,
+    "banana": 8,
     "apple": 0,
     "orange": 32,
     "pear": 15
@@ -71,7 +71,7 @@ def compute_bill(food):
     for i in food:
         total =total+prices[i]
     return total
-	
-print("update")
-print("update")
+for i in range(10)
+	print("update")
+
     
